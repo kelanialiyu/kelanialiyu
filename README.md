@@ -1,16 +1,34 @@
 ### Hi there 👋
+I'm Kelani, nice meeting you.
 
-<!--
-**kelanialiyu/kelanialiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` 
+Experienced front-end web developer known for crafting responsive, user-centric, and visually striking
+websites. A dedicated advocate of mobile-first design and semantic markup, I've honed proficiency in Java,
+React, Node.js, Express, JavaScript, Redux, GraphQL, MUI, HTML, and CSS over the years. Beyond coding, my
+passion for problem-solving, continuous learning, research, poetry, and parkour reflects a versatile skill set.
+An unwavering obsession with Science, Technology, Engineering, and Mathematics (STEM) underscores my
+commitment to innovation. Adept at merging creativity with technical expertise, I bring a unique blend of
+skills to elevate web projects and I am always looking forward to new challenges
+```
 
-Here are some ideas to get you started:
+*Robotic right. 🤫 I am human. will take a recaptcha to prove it 😉.* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Skills and interests**
+- React
+- Redux
+- GraphQl
+- JavaScript
+- Java
+- Critical Thinking
+- Parkour
+- Flight
+- Poetry
+- STEM
+
+**Want to discuss interesting topics, come up with solutions, solve problems or connect 🤷‍♂️?**
+
+Reach me on:
+
+[LinkedIn](https://www.linkedin.com/in/kelani-aliyu/)          [Twitter](https://twitter.com/kelani_aliyu)
+
+*Look forward to meeting you*
