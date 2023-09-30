@@ -29,6 +29,8 @@ skills to elevate web projects and I am always looking forward to new challenges
 
 Reach me on:
 
-[LinkedIn](https://www.linkedin.com/in/kelani-aliyu/)          [Twitter](https://twitter.com/kelani_aliyu)
+[LinkedIn](https://www.linkedin.com/in/kelani-aliyu/)          
+
+[Twitter](https://twitter.com/kelani_aliyu)
 
 *Look forward to meeting you*
